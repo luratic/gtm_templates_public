@@ -1,0 +1,60 @@
+[submodule "AdsmuraiVisualCommerce"]
+	path = AdsmuraiVisualCommerce
+	url = https://github.com/luraticteam/AdsmuraiVisualCommerce.git
+[submodule "Adyoulike"]
+	path = Adyoulike
+	url = https://github.com/luraticteam/Adyoulike.git
+[submodule "AudienceStudio"]
+	path = AudienceStudio
+	url = https://github.com/luraticteam/AudienceStudio.git
+[submodule "DecodeBase64"]
+	path = DecodeBase64
+	url = https://github.com/luraticteam/DecodeBase64.git
+[submodule "DocumentCharacterSet"]
+	path = DocumentCharacterSet
+	url = https://github.com/luraticteam/DocumentCharacterSet.git
+[submodule "DocumentTitle"]
+	path = DocumentTitle
+	url = https://github.com/luraticteam/DocumentTitle.git
+[submodule "E-goi"]
+	path = E-goi
+	url = https://github.com/luraticteam/E-goi.git
+[submodule "EncodeBase64"]
+	path = EncodeBase64
+	url = https://github.com/luraticteam/EncodeBase64.git
+[submodule "FitAnalytics-FitFinder"]
+	path = FitAnalytics-FitFinder
+	url = https://github.com/luraticteam/FitAnalytics-FitFinder.git
+[submodule "Hubspot"]
+	path = Hubspot
+	url = https://github.com/luraticteam/Hubspot.git
+[submodule "Kakao"]
+	path = Kakao
+	url = https://github.com/luraticteam/Kakao.git
+[submodule "Ligatus"]
+	path = Ligatus
+	url = https://github.com/luraticteam/Ligatus.git
+[submodule "monetate"]
+	path = monetate
+	url = https://github.com/luraticteam/monetate.git
+[submodule "OutbrainEnhanced"]
+	path = OutbrainEnhanced
+	url = https://github.com/luraticteam/OutbrainEnhanced.git
+[submodule "Pushnews"]
+	path = Pushnews
+	url = https://github.com/luraticteam/Pushnews.git
+[submodule "SalesForce"]
+	path = SalesForce
+	url = https://github.com/luraticteam/SalesForce.git
+[submodule "Snapchat"]
+	path = Snapchat
+	url = https://github.com/luraticteam/Snapchat.git
+[submodule "StudyPortals"]
+	path = StudyPortals
+	url = https://github.com/luraticteam/StudyPortals.git
+[submodule "TikTok"]
+	path = TikTok
+	url = https://github.com/luraticteam/TikTok.git
+[submodule "Timestamp"]
+	path = Timestamp
+	url = https://github.com/luraticteam/Timestamp.git
