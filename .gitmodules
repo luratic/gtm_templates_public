@@ -58,3 +58,6 @@
 [submodule "Timestamp"]
 	path = Timestamp
 	url = https://github.com/luraticteam/Timestamp.git
+[submodule "MailerLite"]
+	path = MailerLite
+	url = https://github.com/luratic/MailerLite
