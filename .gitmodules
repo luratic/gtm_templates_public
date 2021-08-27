@@ -67,3 +67,6 @@
 [submodule "Bluekai"]
 	path = Bluekai
 	url = https://github.com/luratic/Bluekai
+[submodule "ga4-ecommerce-variable-no-persistence"]
+	path = ga4-ecommerce-variable-no-persistence
+	url = https://github.com/luratic/ga4-ecommerce-variable-no-persistence
